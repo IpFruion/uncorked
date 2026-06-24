@@ -1,0 +1,9 @@
+{
+  "name": "uncorked",
+  "version": "0.1.0",
+  "title": "Uncorked",
+  "author": "IpFruion",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0", "? Space-Age"],
+  "description": "A mod for adding the ability to make science into liquid and back into the bottles for research."
+}
